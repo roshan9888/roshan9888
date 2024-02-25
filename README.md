@@ -53,3 +53,5 @@
 <img src="https://raw.githubusercontent.com/roshan9888/roshan9888/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/roshan9888?ext=heatmap)
