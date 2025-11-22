@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roshan and I'm a MERN STACK Developer</h2>
+<h2 align="left">Hi 👋! My name is Roshan and I'm a Full STACK Developer</h2>
 
 ###
 
